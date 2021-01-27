@@ -1,29 +1,29 @@
 ## Site Meta ##
 # The title of the website.
-title: "Lens - Elastic Designs"
+title: "Cloud Skills: Sketchnotes Edition"
 # The description of the website
-description: "A Jekyll theme for photographers and photo bloggers."
+description: "A collection of sketchnotes from talks, docs and trainings, that provide more insight into Cloud Computing (general) and Microsoft Azure (specific)."
 # Keywords/tags for you site.
-keywords: "lens, jeykll-lens, jekyll, theme, jekyll-theme, photography, blog, photography-blog, photo-blog"
+keywords: "azure, cloud, sketchnotes, visual, skilling, technology, storytelling"
 # Your copyright message.
-copyright: "Copyright &copy; 2017 - Elastic Designs."
+copyright: "Copyright &copy; 2021 - Nitya Narasimhan (@nitya)."
 
 ## Site Configurations ##
 # 1st heading of the site.
-header: "Lens"
+header: "Sketchnotes"
 # 2nd heading/sub heading of the website.
-subheader: "Elastic Designs"
+subheader: "Cloud Skills Visualized"
 # A description/bio of the website.
-bio: "A Jekyll theme for photographers and photo bloggers."
+bio: "A sketchnotes repository for all things Cloud Computing and Azure."
 social:
   # Your Twitter username.
-  twitter_username: ""
+  twitter_username: "nitya"
   # Your Facebook username.
   facebook_username: ""
   # Your Instagram username.
   instagram_username: ""
   # GitHub username.
-  github_username: "ElasticDesigns"
+  github_username: "nitya"
   # Your email address.
   email: ""
 
