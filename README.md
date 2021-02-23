@@ -1,56 +1,18 @@
-![Jekyll Lens](https://i.imgur.com/Qi7gdQC.png)
+# Cloud Skills: Sketchnotes Edition
 
-# Lens
-*A Jekyll website  for photographers and photo bloggers.*
+Welcome to Cloud-Skills: Sketchnotes - a repository that started off as a place to host hi-resolution sketchnotes created by me (@nitya / Nitya Narasimhan) for various cloud computing and community events and presentations. It has since morphed into a repository that serves two purposes:
+ * Host sketchnotes related to my [#VisualAzure](https://azure.cloud-skills.dev) initiative.
+ * Motivate others to contribute their own sketchnotes to the repository for enjoyment by all.
 
-**Lens** is a photo gallery [Jekyll](https://jekyllrb.com/) theme designed
-specially for photographers and photo bloggers.
+## Usage
 
-Jekyll Lens uses [Jekyll](https://jekyllrb.com/) Static Site Generator (SSG) to
-generate the website and [GitHub Pages](https://pages.github.com) to host it.
+All sketchnotes remain the property of their creators so please provide attribution to this site (https://cloud-skills.dev) and to the sketchnote creator (using their preferred attribution statement) if you choose to share these publicly. In my case, that attribution involves tagging me (@nitya on Twitter) if directly sharing a link to the image, or sending me a request via the [Discussions Page](https://github.com/SketchTheDocs/cloud-skills/discussions) if you wish to embed the sketchnote in an article, video or other content item.
 
-## Features
+Using sketchnotes for any commercial purposes is absolutely forbidden. Please reach out to me through the above page, or via twitter (@nitya, DMs are open) if you have a specific request and I might consider these on a case-by-case basis. **The primary use of these sketchnotes is to help people learn by providing them a single-page recap that can help with review, recall and retention, of studied information**.
 
-  ✅ Free & Easy setup  
-  ✅ No coding required  
+## Contributors Guide
 
-You won't need any expensive server, just to host a photo blog. You don't
-even need to code anything. Just follow the steps below to setup your photo blog
-in minutes.
-
-## Get Started
-
-1.  Fork this repository by clicking the **Fork** button at the top right.
-
-1.  Enable [GitHub Pages](https://pages.github.com) from the repository
-    settings.  
-    Your site will be automatically generated and published at
-    `https://<username>.github.io/<repository_name>`. You can also add your
-    custom domain if you want.  
-    (For more details visit: [GitHub Pages](https://pages.github.com)).
-
-1.  Modify the `_config.yml` file to your liking.  
-    More information on each key in the `_config.yml` file has been described in
-    the file itself, as comments.
-
-1.  Upload your pictures in the `gallery` folder (and remove the default ones if
-    you want).
-
-1.  Now, visit your website and see the magic! 🎉
-
-> If you liked this project, please ⭐ **Star** this repository to show your
->  love.
-
-#### Have any questions?
-If you have a bug or an idea, feel free to open a [new issue](https://github.com/ElasticDesigns/jekyll-lens/issues/new).
-
-#### Want to contribute?
-If you want to contribute, make your changes or enhancements and [open a
-pull request](https://github.com/ElasticDesigns/jekyll-lens/compare).
-
-> Feedback and bug reports are not only welcome, but strongly encouraged. 😄
+TBD - I welcome submissions from others who wish to have their sketchnotes listed here. I hope to update this section soon with some practical advice for creating a PR that can help make this seamless, while also preserving attribution correctly.
 
 ### Credits
-The HTML5 version of Lens template is designed by [HTML5UP](https://html5up.net/lens).
-A special thanks to them for the design, which I further enhanced for use with
-Jekyll.
+The site uses the [Elastic Lens](https://github.com/ElasticDesigns/jekyll-lens) Jekyll template
