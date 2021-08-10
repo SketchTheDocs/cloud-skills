@@ -1,5 +1,6 @@
 # Cloud Skills: Sketchnotes Edition
 
+
 Welcome to Cloud-Skills: Sketchnotes - a repository that started off as a place to host hi-resolution sketchnotes created by me (@nitya / Nitya Narasimhan) for various cloud computing and community events and presentations. It has since morphed into a repository that serves two purposes:
  * Host sketchnotes related to my [#VisualAzure](https://azure.cloud-skills.dev) initiative.
  * Motivate others to contribute their own sketchnotes to the repository for enjoyment by all.
