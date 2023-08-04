@@ -16,3 +16,5 @@ TBD - I welcome submissions from others who wish to have their sketchnotes liste
 
 ### Credits
 The site uses the [Elastic Lens](https://github.com/ElasticDesigns/jekyll-lens) Jekyll template
+
+[![Hits](https://hits.sh/github.com/sketchthedocs/cloud-skills.svg?color=cc1193&labelColor=1100ca)](https://hits.sh/github.com/sketchthedocs/cloud-skills/)
